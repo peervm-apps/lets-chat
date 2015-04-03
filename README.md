@@ -24,7 +24,7 @@ A self-hosted chat app for small teams built by [Security Compass][seccom].
 
 ## Deployment
 
-[![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://ghostvm.com/letschat?ref=admin@peervm.com)
+[![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://peervm.com/letschat?ref=admin@peervm.com)
 
 See the [wiki][wiki] for instructions on deploying locally, or to Docker,
 Vagrant and Heroku.
